@@ -19,7 +19,7 @@ dividing our refugees into three types: Refugees,Asylum seekers,Internally Displ
 
 In the full report we presented different centrality measures to detect transitory countries and asylum safe heavens.  We also applied community detection to identify characteristics of the communities that have been broken but are subsequently rebuilt.
 
-![Community Dynamics](/ComDetection.jpg)
+![Community Dynamics](/ComDetection.jpeg)
 
 With this social netwrok analysis of the forced migrants, we have been able to dispell the eurocentric notion of the refugee crisis. Moreover, it is
 about rethinking our humanity.
