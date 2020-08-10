@@ -24,7 +24,7 @@ In the full report we presented different centrality measures to detect transito
 With this social netwrok analysis of the forced migrants, we have been able to dispell the eurocentric notion of the refugee crisis. Moreover, it is
 about rethinking our humanity.
 
-This project was made possible with the help of my colleague Marang Mutloatse and Nisrine Ferahi. The tools used for the project are the following:
+This project was made possible with the help of my colleagues Marang Mutloatse and Nisrine Ferahi. The tools used for the project are the following:
 
 - R for data transformation, the analysis and the report in a Markdown format;
 - Gephi for some of the visualizations of our networks;
